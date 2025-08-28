@@ -1,2 +1,4 @@
 this is index.txt file
 change 2 has been made
+this is line number3
+this is line number4
